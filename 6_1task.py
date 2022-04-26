@@ -37,8 +37,6 @@ def sort_n_clear (list_name):
     return new_list
 
 def folder_sorter(folder_path):
- #   folder_path = '/Users/oleksijburlakov/Desktop/1'
- #   p = Path('/Users/oleksijburlakov/Desktop/ДТЄК/') - для використання модулю Path
     text_list = []
     imgs_list = []
     vid_list = []
